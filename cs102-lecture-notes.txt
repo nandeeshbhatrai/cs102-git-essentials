@@ -1,0 +1,5 @@
+git init: Initialising the github repository
+git clone: importing/cloning a repository into local machine
+git status: shows unstaged and staged changes
+git push: Hosting the repository after commiting the changes
+git pull: Importing files from a cloned repository
