@@ -3,3 +3,12 @@ git clone: importing/cloning a repository into local machine
 git status: shows unstaged and staged changes
 git push: Hosting the repository after commiting the changes
 git pull: Importing files from a cloned repository
+
+SUMMARY
+
+In today's class we learnt about various ways of cloning repositories, editing files, pushing,pulling of the reposotories.
+we learnt how to do that with GiHub desktop application. In previous classes we also got to know how to do that in terminal.
+We learnt about the git command "diff" which allows us to compare between the origin main repository and the current repository whether we have done any changes or not.
+
+We also learnt about markdown and HTML. We will also study about how we can create our own pages in the upcomming lectures!
+
